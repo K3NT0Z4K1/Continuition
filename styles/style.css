@@ -16,3 +16,9 @@ body {
   align-items: stretch;
 }
 
+.name-input,
+.due-date-input {
+  font-size: 15px;
+  padding: 6px;
+}
+
