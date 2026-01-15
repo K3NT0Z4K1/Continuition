@@ -11,3 +11,8 @@ body {
   align-items: center;
 }
 
+.todo-input-grid {
+  margin-bottom: 10px;
+  align-items: stretch;
+}
+
